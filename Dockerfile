@@ -1,6 +1,6 @@
 FROM WINDOWS
 FROM ubuntu
-MAINTAINER "Ashok"
+MAINTAINER "Nagur"
 CMD "echo hello"
 RUN "echo hi"
 EXPOSE 8080
